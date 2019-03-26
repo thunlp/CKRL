@@ -21,6 +21,8 @@ You can also get FB15k from here: <a href="http://pan.baidu.com/s/1eSvyY46">[dow
 
 data.zip contains the original FB15k dataset as well as 3 noisy datasets FB15K-N1, FB15K-N2, FB15K-N3 
 
+For other input files please see <a href="https://pan.baidu.com/s/1StYqZHQkGUasxvSAIwkMHQ">[download]</a>, code: hwiv
+
 
 # COMPILE 
 
